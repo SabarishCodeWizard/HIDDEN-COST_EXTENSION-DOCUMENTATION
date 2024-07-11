@@ -1,6 +1,6 @@
 # DPBH-HACKATHON-FINALS-POSTER-DOCUMENTATION
 
-# Chrome Extension Documentation
+# Chrome Extension
 
 ## Overview
 
